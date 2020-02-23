@@ -1,7 +1,5 @@
 //@ts-check
 
-const doctrine = require('doctrine')
-
 // 17
 const { add, subtract, divide, multiply } = require('./calculator') 
 
