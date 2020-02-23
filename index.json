@@ -1,0 +1,3610 @@
+[
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "index.js is the root file for this example app",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 47,
+                  "offset": 46
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 47,
+              "offset": 46
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 47,
+          "offset": 46
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "file",
+        "description": "index.js is the root file for this example app",
+        "lineNumber": 1
+      },
+      {
+        "title": "author",
+        "description": "Felix Heng",
+        "lineNumber": 2
+      },
+      {
+        "title": "see",
+        "description": "<a href=\"https://www.wiztopic.com/fr/\">Wiztopic</a>",
+        "lineNumber": 3
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 9,
+        "column": 0
+      },
+      "end": {
+        "line": 13,
+        "column": 3
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 19,
+          "column": 0
+        },
+        "end": {
+          "line": 19,
+          "column": 29
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [],
+    "properties": [],
+    "returns": [],
+    "sees": [
+      {
+        "type": "root",
+        "children": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "html",
+                "value": "<a href=\"https://www.wiztopic.com/fr/\">",
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 40,
+                    "offset": 39
+                  },
+                  "indent": []
+                }
+              },
+              {
+                "type": "text",
+                "value": "Wiztopic",
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 40,
+                    "offset": 39
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 48,
+                    "offset": 47
+                  },
+                  "indent": []
+                }
+              },
+              {
+                "type": "html",
+                "value": "</a>",
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 48,
+                    "offset": 47
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 52,
+                    "offset": 51
+                  },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": {
+                "line": 1,
+                "column": 1,
+                "offset": 0
+              },
+              "end": {
+                "line": 1,
+                "column": 52,
+                "offset": 51
+              },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": {
+            "line": 1,
+            "column": 1,
+            "offset": 0
+          },
+          "end": {
+            "line": 1,
+            "column": 52,
+            "offset": 51
+          }
+        }
+      }
+    ],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "kind": "file",
+    "author": "Felix Heng",
+    "name": "username",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "username",
+        "kind": "file"
+      }
+    ],
+    "namespace": "username"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Username",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 9,
+                  "offset": 8
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 9,
+              "offset": 8
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 9,
+          "offset": 8
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "type",
+        "description": null,
+        "lineNumber": 2,
+        "type": {
+          "type": "NameExpression",
+          "name": "string"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 15,
+        "column": 0
+      },
+      "end": {
+        "line": 18,
+        "column": 3
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 19,
+          "column": 0
+        },
+        "end": {
+          "line": 19,
+          "column": 29
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [],
+    "properties": [],
+    "returns": [],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "type": {
+      "type": "NameExpression",
+      "name": "string"
+    },
+    "name": "username",
+    "kind": "constant",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "username",
+        "kind": "constant"
+      }
+    ],
+    "namespace": "username"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Favorite Numbers",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 17,
+                  "offset": 16
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 17,
+              "offset": 16
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 17,
+          "offset": 16
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "type",
+        "description": null,
+        "lineNumber": 2,
+        "type": {
+          "type": "TypeApplication",
+          "expression": {
+            "type": "NameExpression",
+            "name": "Array"
+          },
+          "applications": [
+            {
+              "type": "NameExpression",
+              "name": "number"
+            }
+          ]
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 21,
+        "column": 0
+      },
+      "end": {
+        "line": 24,
+        "column": 3
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 25,
+          "column": 0
+        },
+        "end": {
+          "line": 25,
+          "column": 33
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [],
+    "properties": [],
+    "returns": [],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "type": {
+      "type": "TypeApplication",
+      "expression": {
+        "type": "NameExpression",
+        "name": "Array"
+      },
+      "applications": [
+        {
+          "type": "NameExpression",
+          "name": "number"
+        }
+      ]
+    },
+    "name": "favoriteNumbers",
+    "kind": "constant",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "favoriteNumbers",
+        "kind": "constant"
+      }
+    ],
+    "namespace": "favoriteNumbers"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Todo",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 5,
+                  "offset": 4
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 5,
+              "offset": 4
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 5,
+          "offset": 4
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "type",
+        "description": null,
+        "lineNumber": 2,
+        "type": null,
+        "errors": [
+          "unexpected token"
+        ]
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 27,
+        "column": 0
+      },
+      "end": {
+        "line": 30,
+        "column": 3
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 31,
+          "column": 0
+        },
+        "end": {
+          "line": 34,
+          "column": 1
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [],
+    "properties": [],
+    "returns": [],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "name": "todo",
+    "kind": "constant",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "todo",
+        "kind": "constant"
+      }
+    ],
+    "namespace": "todo"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Sum function",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 13,
+                  "offset": 12
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 13,
+              "offset": 12
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 13,
+          "offset": 12
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "param",
+        "description": "first number",
+        "lineNumber": 2,
+        "type": {
+          "type": "NameExpression",
+          "name": "number"
+        },
+        "name": "num1"
+      },
+      {
+        "title": "param",
+        "description": "second number",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "number"
+        },
+        "name": "num2"
+      },
+      {
+        "title": "returns",
+        "description": "total in number and string",
+        "lineNumber": 4,
+        "type": {
+          "type": "NameExpression",
+          "name": "string"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 36,
+        "column": 0
+      },
+      "end": {
+        "line": 41,
+        "column": 3
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 31,
+          "column": 0
+        },
+        "end": {
+          "line": 34,
+          "column": 1
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "num1",
+        "lineNumber": 2,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "first number",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 13,
+                      "offset": 12
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 13,
+                  "offset": 12
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 13,
+              "offset": 12
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "number"
+        }
+      },
+      {
+        "title": "param",
+        "name": "num2",
+        "lineNumber": 3,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "second number",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 14,
+                      "offset": 13
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 14,
+                  "offset": 13
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 14,
+              "offset": 13
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "number"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "total in number and string",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 27,
+                      "offset": 26
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 27,
+                  "offset": 26
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 27,
+              "offset": 26
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "string"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [],
+    "namespace": ""
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "A student",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 10,
+                  "offset": 9
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 10,
+              "offset": 9
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 10,
+          "offset": 9
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "typedef",
+        "description": null,
+        "lineNumber": 2,
+        "type": {
+          "type": "NameExpression",
+          "name": "Object"
+        },
+        "name": "Student"
+      },
+      {
+        "title": "property",
+        "description": "Student ID",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "number"
+        },
+        "name": "id"
+      },
+      {
+        "title": "property",
+        "description": "Student name",
+        "lineNumber": 4,
+        "type": {
+          "type": "NameExpression",
+          "name": "string"
+        },
+        "name": "name"
+      },
+      {
+        "title": "property",
+        "description": "Student age",
+        "lineNumber": 5,
+        "type": {
+          "type": "OptionalType",
+          "expression": {
+            "type": "UnionType",
+            "elements": [
+              {
+                "type": "NameExpression",
+                "name": "string"
+              },
+              {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            ]
+          }
+        },
+        "name": "age"
+      },
+      {
+        "title": "property",
+        "description": "Student is active",
+        "lineNumber": 6,
+        "type": {
+          "type": "NameExpression",
+          "name": "boolean"
+        },
+        "name": "isActive"
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 47,
+        "column": 0
+      },
+      "end": {
+        "line": 54,
+        "column": 3
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 59,
+          "column": 1
+        },
+        "end": {
+          "line": 64,
+          "column": 2
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [],
+    "properties": [
+      {
+        "title": "property",
+        "name": "id",
+        "lineNumber": 3,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Student ID",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 11,
+                      "offset": 10
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 11,
+                  "offset": 10
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 11,
+              "offset": 10
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "number"
+        }
+      },
+      {
+        "title": "property",
+        "name": "name",
+        "lineNumber": 4,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Student name",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 13,
+                      "offset": 12
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 13,
+                  "offset": 12
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 13,
+              "offset": 12
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "string"
+        }
+      },
+      {
+        "title": "property",
+        "name": "age",
+        "lineNumber": 5,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Student age",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 12,
+                      "offset": 11
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 12,
+                  "offset": 11
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 12,
+              "offset": 11
+            }
+          }
+        },
+        "type": {
+          "type": "OptionalType",
+          "expression": {
+            "type": "UnionType",
+            "elements": [
+              {
+                "type": "NameExpression",
+                "name": "string"
+              },
+              {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "property",
+        "name": "isActive",
+        "lineNumber": 6,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Student is active",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 18,
+                      "offset": 17
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 18,
+                  "offset": 17
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 18,
+              "offset": 17
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "boolean"
+        }
+      }
+    ],
+    "returns": [],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "kind": "typedef",
+    "name": "Student",
+    "type": {
+      "type": "NameExpression",
+      "name": "Object"
+    },
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "Student",
+        "kind": "typedef"
+      }
+    ],
+    "namespace": "Student"
+  },
+  {
+    "description": "",
+    "tags": [
+      {
+        "title": "type",
+        "description": null,
+        "lineNumber": 1,
+        "type": {
+          "type": "NameExpression",
+          "name": "Student"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 56,
+        "column": 1
+      },
+      "end": {
+        "line": 58,
+        "column": 4
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 59,
+          "column": 1
+        },
+        "end": {
+          "line": 64,
+          "column": 2
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [],
+    "properties": [],
+    "returns": [],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "type": {
+      "type": "NameExpression",
+      "name": "Student"
+    },
+    "name": "Student",
+    "kind": "constant",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "Student",
+        "kind": "constant"
+      }
+    ],
+    "namespace": "Student"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Class to create a person object",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 32,
+                  "offset": 31
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 32,
+              "offset": 31
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 32,
+          "offset": 31
+        }
+      }
+    },
+    "tags": [],
+    "loc": {
+      "start": {
+        "line": 67,
+        "column": 1
+      },
+      "end": {
+        "line": 69,
+        "column": 4
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 59,
+          "column": 1
+        },
+        "end": {
+          "line": 64,
+          "column": 2
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [],
+    "properties": [],
+    "returns": [],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [],
+    "namespace": ""
+  },
+  {
+    "description": "",
+    "tags": [
+      {
+        "title": "param",
+        "description": "Information about the person",
+        "lineNumber": 2,
+        "type": {
+          "type": "NameExpression",
+          "name": "Object"
+        },
+        "name": "personInfo"
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 71,
+        "column": 5
+      },
+      "end": {
+        "line": 74,
+        "column": 8
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 75,
+          "column": 5
+        },
+        "end": {
+          "line": 84,
+          "column": 6
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "personInfo",
+        "lineNumber": 2,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Information about the person",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 29,
+                      "offset": 28
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 29,
+                  "offset": 28
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 29,
+              "offset": 28
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "Object"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "name": "constructor",
+    "kind": "function",
+    "memberof": "Person",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "constructor",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#constructor"
+  },
+  {
+    "description": "",
+    "tags": [
+      {
+        "title": "property",
+        "description": "Persons name",
+        "lineNumber": 1,
+        "type": {
+          "type": "NameExpression",
+          "name": "string"
+        },
+        "name": "name"
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 76,
+        "column": 9
+      },
+      "end": {
+        "line": 78,
+        "column": 12
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 79,
+          "column": 8
+        },
+        "end": {
+          "line": 79,
+          "column": 35
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [],
+    "properties": [
+      {
+        "title": "property",
+        "name": "name",
+        "lineNumber": 1,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Persons name",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 13,
+                      "offset": 12
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 13,
+                  "offset": 12
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 13,
+              "offset": 12
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "string"
+        }
+      }
+    ],
+    "returns": [],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "name": "name",
+    "memberof": "Person",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "name",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#name"
+  },
+  {
+    "description": "",
+    "tags": [
+      {
+        "title": "property",
+        "description": "Persons age",
+        "lineNumber": 1,
+        "type": {
+          "type": "UnionType",
+          "elements": [
+            {
+              "type": "NameExpression",
+              "name": "number"
+            },
+            {
+              "type": "NameExpression",
+              "name": "string"
+            }
+          ]
+        },
+        "name": "age"
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 80,
+        "column": 8
+      },
+      "end": {
+        "line": 82,
+        "column": 11
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 83,
+          "column": 8
+        },
+        "end": {
+          "line": 83,
+          "column": 33
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [],
+    "properties": [
+      {
+        "title": "property",
+        "name": "age",
+        "lineNumber": 1,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Persons age",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 12,
+                      "offset": 11
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 12,
+                  "offset": 11
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 12,
+              "offset": 11
+            }
+          }
+        },
+        "type": {
+          "type": "UnionType",
+          "elements": [
+            {
+              "type": "NameExpression",
+              "name": "number"
+            },
+            {
+              "type": "NameExpression",
+              "name": "string"
+            }
+          ]
+        }
+      }
+    ],
+    "returns": [],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "name": "age",
+    "memberof": "Person",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "age",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#age"
+  },
+  {
+    "description": "",
+    "tags": [
+      {
+        "title": "property",
+        "description": "A greeting with the name and age",
+        "lineNumber": 1,
+        "type": {
+          "type": "NameExpression",
+          "name": "function"
+        },
+        "name": "greet"
+      },
+      {
+        "title": "returns",
+        "description": null,
+        "lineNumber": 2,
+        "type": {
+          "type": "NameExpression",
+          "name": "void"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 85,
+        "column": 5
+      },
+      "end": {
+        "line": 88,
+        "column": 8
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 89,
+          "column": 5
+        },
+        "end": {
+          "line": 91,
+          "column": 6
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [],
+    "properties": [
+      {
+        "title": "property",
+        "name": "greet",
+        "lineNumber": 1,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "A greeting with the name and age",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 33,
+                      "offset": 32
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 33,
+                  "offset": 32
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 33,
+              "offset": 32
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "function"
+        }
+      }
+    ],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "void"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "name": "greet",
+    "kind": "function",
+    "memberof": "Person",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "greet",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#greet"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Homer Simpson\nsee ",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 2,
+                  "column": 5,
+                  "offset": 18
+                },
+                "indent": [
+                  1
+                ]
+              }
+            },
+            {
+              "type": "link",
+              "url": "Person",
+              "title": null,
+              "jsdoc": true,
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Person"
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 2,
+                  "column": 5,
+                  "offset": 18
+                },
+                "end": {
+                  "line": 2,
+                  "column": 19,
+                  "offset": 32
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 2,
+              "column": 19,
+              "offset": 32
+            },
+            "indent": [
+              1
+            ]
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 19,
+          "offset": 32
+        }
+      }
+    },
+    "tags": [],
+    "loc": {
+      "start": {
+        "line": 95,
+        "column": 0
+      },
+      "end": {
+        "line": 98,
+        "column": 3
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 99,
+          "column": 0
+        },
+        "end": {
+          "line": 102,
+          "column": 2
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/index.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [],
+    "properties": [],
+    "returns": [],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "name": "HomerSimpson",
+    "kind": "constant",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "HomerSimpson",
+        "kind": "constant"
+      }
+    ],
+    "namespace": "HomerSimpson"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Calculator module - See ",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 25,
+                  "offset": 24
+                },
+                "indent": []
+              }
+            },
+            {
+              "type": "tutorial",
+              "url": "calculator-tutorial",
+              "title": null,
+              "jsdoc": true,
+              "children": [
+                {
+                  "type": "text",
+                  "value": "calculator-tutorial"
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 25,
+                  "offset": 24
+                },
+                "end": {
+                  "line": 1,
+                  "column": 56,
+                  "offset": 55
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 56,
+              "offset": 55
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 56,
+          "offset": 55
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "module",
+        "description": null,
+        "lineNumber": 2,
+        "type": null,
+        "name": "calculator"
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 2,
+        "column": 0
+      },
+      "end": {
+        "line": 5,
+        "column": 3
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 13,
+          "column": 0
+        },
+        "end": {
+          "line": 13,
+          "column": 34
+        }
+      },
+      "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/calculator.js"
+    },
+    "augments": [],
+    "examples": [],
+    "implements": [],
+    "params": [],
+    "properties": [],
+    "returns": [],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "yields": [],
+    "kind": "module",
+    "name": "calculator",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": [
+        {
+          "description": {
+            "type": "root",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Add two numbers",
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 16,
+                        "offset": 15
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 16,
+                    "offset": 15
+                  },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": {
+                "line": 1,
+                "column": 1,
+                "offset": 0
+              },
+              "end": {
+                "line": 1,
+                "column": 16,
+                "offset": 15
+              }
+            }
+          },
+          "tags": [
+            {
+              "title": "param",
+              "description": "First number",
+              "lineNumber": 2,
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              },
+              "name": "n1"
+            },
+            {
+              "title": "param",
+              "description": "Second number",
+              "lineNumber": 3,
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              },
+              "name": "n2"
+            },
+            {
+              "title": "returns",
+              "description": "Sum of n1 and n2",
+              "lineNumber": 4,
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            }
+          ],
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 0
+            },
+            "end": {
+              "line": 12,
+              "column": 3
+            }
+          },
+          "context": {
+            "loc": {
+              "start": {
+                "line": 13,
+                "column": 0
+              },
+              "end": {
+                "line": 13,
+                "column": 34
+              }
+            },
+            "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/calculator.js"
+          },
+          "augments": [],
+          "examples": [],
+          "implements": [],
+          "params": [
+            {
+              "title": "param",
+              "name": "n1",
+              "lineNumber": 2,
+              "description": {
+                "type": "root",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "First number",
+                        "position": {
+                          "start": {
+                            "line": 1,
+                            "column": 1,
+                            "offset": 0
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 13,
+                            "offset": 12
+                          },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 13,
+                        "offset": 12
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 13,
+                    "offset": 12
+                  }
+                }
+              },
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            },
+            {
+              "title": "param",
+              "name": "n2",
+              "lineNumber": 3,
+              "description": {
+                "type": "root",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Second number",
+                        "position": {
+                          "start": {
+                            "line": 1,
+                            "column": 1,
+                            "offset": 0
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 14,
+                            "offset": 13
+                          },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 14,
+                        "offset": 13
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 14,
+                    "offset": 13
+                  }
+                }
+              },
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            }
+          ],
+          "properties": [],
+          "returns": [
+            {
+              "description": {
+                "type": "root",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Sum of n1 and n2",
+                        "position": {
+                          "start": {
+                            "line": 1,
+                            "column": 1,
+                            "offset": 0
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 17,
+                            "offset": 16
+                          },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 17,
+                        "offset": 16
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 17,
+                    "offset": 16
+                  }
+                }
+              },
+              "title": "returns",
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            }
+          ],
+          "sees": [],
+          "throws": [],
+          "todos": [],
+          "yields": [],
+          "name": "add",
+          "kind": "function",
+          "memberof": "calculator",
+          "scope": "static",
+          "members": {
+            "global": [],
+            "inner": [],
+            "instance": [],
+            "events": [],
+            "static": []
+          },
+          "path": [
+            {
+              "name": "calculator",
+              "kind": "module"
+            },
+            {
+              "name": "add",
+              "kind": "function",
+              "scope": "static"
+            }
+          ],
+          "namespace": "calculator.add"
+        },
+        {
+          "description": {
+            "type": "root",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Multiply two numbers",
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 21,
+                        "offset": 20
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 21,
+                    "offset": 20
+                  },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": {
+                "line": 1,
+                "column": 1,
+                "offset": 0
+              },
+              "end": {
+                "line": 1,
+                "column": 21,
+                "offset": 20
+              }
+            }
+          },
+          "tags": [
+            {
+              "title": "param",
+              "description": "First number",
+              "lineNumber": 2,
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              },
+              "name": "n1"
+            },
+            {
+              "title": "param",
+              "description": "Second number",
+              "lineNumber": 3,
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              },
+              "name": "n2"
+            },
+            {
+              "title": "returns",
+              "description": "Product of n1 and n2",
+              "lineNumber": 4,
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            }
+          ],
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 0
+            },
+            "end": {
+              "line": 20,
+              "column": 3
+            }
+          },
+          "context": {
+            "loc": {
+              "start": {
+                "line": 21,
+                "column": 0
+              },
+              "end": {
+                "line": 21,
+                "column": 39
+              }
+            },
+            "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/calculator.js"
+          },
+          "augments": [],
+          "examples": [],
+          "implements": [],
+          "params": [
+            {
+              "title": "param",
+              "name": "n1",
+              "lineNumber": 2,
+              "description": {
+                "type": "root",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "First number",
+                        "position": {
+                          "start": {
+                            "line": 1,
+                            "column": 1,
+                            "offset": 0
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 13,
+                            "offset": 12
+                          },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 13,
+                        "offset": 12
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 13,
+                    "offset": 12
+                  }
+                }
+              },
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            },
+            {
+              "title": "param",
+              "name": "n2",
+              "lineNumber": 3,
+              "description": {
+                "type": "root",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Second number",
+                        "position": {
+                          "start": {
+                            "line": 1,
+                            "column": 1,
+                            "offset": 0
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 14,
+                            "offset": 13
+                          },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 14,
+                        "offset": 13
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 14,
+                    "offset": 13
+                  }
+                }
+              },
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            }
+          ],
+          "properties": [],
+          "returns": [
+            {
+              "description": {
+                "type": "root",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Product of n1 and n2",
+                        "position": {
+                          "start": {
+                            "line": 1,
+                            "column": 1,
+                            "offset": 0
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 21,
+                            "offset": 20
+                          },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 21,
+                        "offset": 20
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 21,
+                    "offset": 20
+                  }
+                }
+              },
+              "title": "returns",
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            }
+          ],
+          "sees": [],
+          "throws": [],
+          "todos": [],
+          "yields": [],
+          "name": "multiply",
+          "kind": "function",
+          "memberof": "calculator",
+          "scope": "static",
+          "members": {
+            "global": [],
+            "inner": [],
+            "instance": [],
+            "events": [],
+            "static": []
+          },
+          "path": [
+            {
+              "name": "calculator",
+              "kind": "module"
+            },
+            {
+              "name": "multiply",
+              "kind": "function",
+              "scope": "static"
+            }
+          ],
+          "namespace": "calculator.multiply"
+        },
+        {
+          "description": {
+            "type": "root",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Subtract two numbers",
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 21,
+                        "offset": 20
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 21,
+                    "offset": 20
+                  },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": {
+                "line": 1,
+                "column": 1,
+                "offset": 0
+              },
+              "end": {
+                "line": 1,
+                "column": 21,
+                "offset": 20
+              }
+            }
+          },
+          "tags": [
+            {
+              "title": "param",
+              "description": "First number",
+              "lineNumber": 2,
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              },
+              "name": "n1"
+            },
+            {
+              "title": "param",
+              "description": "Second number",
+              "lineNumber": 3,
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              },
+              "name": "n2"
+            },
+            {
+              "title": "returns",
+              "description": "Difference of n1 and n2",
+              "lineNumber": 4,
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            }
+          ],
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 0
+            },
+            "end": {
+              "line": 28,
+              "column": 3
+            }
+          },
+          "context": {
+            "loc": {
+              "start": {
+                "line": 29,
+                "column": 0
+              },
+              "end": {
+                "line": 29,
+                "column": 39
+              }
+            },
+            "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/calculator.js"
+          },
+          "augments": [],
+          "examples": [],
+          "implements": [],
+          "params": [
+            {
+              "title": "param",
+              "name": "n1",
+              "lineNumber": 2,
+              "description": {
+                "type": "root",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "First number",
+                        "position": {
+                          "start": {
+                            "line": 1,
+                            "column": 1,
+                            "offset": 0
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 13,
+                            "offset": 12
+                          },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 13,
+                        "offset": 12
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 13,
+                    "offset": 12
+                  }
+                }
+              },
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            },
+            {
+              "title": "param",
+              "name": "n2",
+              "lineNumber": 3,
+              "description": {
+                "type": "root",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Second number",
+                        "position": {
+                          "start": {
+                            "line": 1,
+                            "column": 1,
+                            "offset": 0
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 14,
+                            "offset": 13
+                          },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 14,
+                        "offset": 13
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 14,
+                    "offset": 13
+                  }
+                }
+              },
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            }
+          ],
+          "properties": [],
+          "returns": [
+            {
+              "description": {
+                "type": "root",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Difference of n1 and n2",
+                        "position": {
+                          "start": {
+                            "line": 1,
+                            "column": 1,
+                            "offset": 0
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 24,
+                            "offset": 23
+                          },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 24,
+                        "offset": 23
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 24,
+                    "offset": 23
+                  }
+                }
+              },
+              "title": "returns",
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            }
+          ],
+          "sees": [],
+          "throws": [],
+          "todos": [],
+          "yields": [],
+          "name": "subtract",
+          "kind": "function",
+          "memberof": "calculator",
+          "scope": "static",
+          "members": {
+            "global": [],
+            "inner": [],
+            "instance": [],
+            "events": [],
+            "static": []
+          },
+          "path": [
+            {
+              "name": "calculator",
+              "kind": "module"
+            },
+            {
+              "name": "subtract",
+              "kind": "function",
+              "scope": "static"
+            }
+          ],
+          "namespace": "calculator.subtract"
+        },
+        {
+          "description": {
+            "type": "root",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Divide two numbers",
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 19,
+                        "offset": 18
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 19,
+                    "offset": 18
+                  },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": {
+                "line": 1,
+                "column": 1,
+                "offset": 0
+              },
+              "end": {
+                "line": 1,
+                "column": 19,
+                "offset": 18
+              }
+            }
+          },
+          "tags": [
+            {
+              "title": "param",
+              "description": "First number",
+              "lineNumber": 2,
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              },
+              "name": "n1"
+            },
+            {
+              "title": "param",
+              "description": "Second number",
+              "lineNumber": 3,
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              },
+              "name": "n2"
+            },
+            {
+              "title": "returns",
+              "description": "Quotient of n1 and n2",
+              "lineNumber": 4,
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            }
+          ],
+          "loc": {
+            "start": {
+              "line": 31,
+              "column": 0
+            },
+            "end": {
+              "line": 36,
+              "column": 3
+            }
+          },
+          "context": {
+            "loc": {
+              "start": {
+                "line": 37,
+                "column": 0
+              },
+              "end": {
+                "line": 37,
+                "column": 37
+              }
+            },
+            "file": "/Users/felixheng/Documents/jsdoc-crashcourse/src/calculator.js"
+          },
+          "augments": [],
+          "examples": [],
+          "implements": [],
+          "params": [
+            {
+              "title": "param",
+              "name": "n1",
+              "lineNumber": 2,
+              "description": {
+                "type": "root",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "First number",
+                        "position": {
+                          "start": {
+                            "line": 1,
+                            "column": 1,
+                            "offset": 0
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 13,
+                            "offset": 12
+                          },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 13,
+                        "offset": 12
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 13,
+                    "offset": 12
+                  }
+                }
+              },
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            },
+            {
+              "title": "param",
+              "name": "n2",
+              "lineNumber": 3,
+              "description": {
+                "type": "root",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Second number",
+                        "position": {
+                          "start": {
+                            "line": 1,
+                            "column": 1,
+                            "offset": 0
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 14,
+                            "offset": 13
+                          },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 14,
+                        "offset": 13
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 14,
+                    "offset": 13
+                  }
+                }
+              },
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            }
+          ],
+          "properties": [],
+          "returns": [
+            {
+              "description": {
+                "type": "root",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Quotient of n1 and n2",
+                        "position": {
+                          "start": {
+                            "line": 1,
+                            "column": 1,
+                            "offset": 0
+                          },
+                          "end": {
+                            "line": 1,
+                            "column": 22,
+                            "offset": 21
+                          },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": {
+                        "line": 1,
+                        "column": 1,
+                        "offset": 0
+                      },
+                      "end": {
+                        "line": 1,
+                        "column": 22,
+                        "offset": 21
+                      },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": {
+                    "line": 1,
+                    "column": 1,
+                    "offset": 0
+                  },
+                  "end": {
+                    "line": 1,
+                    "column": 22,
+                    "offset": 21
+                  }
+                }
+              },
+              "title": "returns",
+              "type": {
+                "type": "NameExpression",
+                "name": "number"
+              }
+            }
+          ],
+          "sees": [],
+          "throws": [],
+          "todos": [],
+          "yields": [],
+          "name": "divide",
+          "kind": "function",
+          "memberof": "calculator",
+          "scope": "static",
+          "members": {
+            "global": [],
+            "inner": [],
+            "instance": [],
+            "events": [],
+            "static": []
+          },
+          "path": [
+            {
+              "name": "calculator",
+              "kind": "module"
+            },
+            {
+              "name": "divide",
+              "kind": "function",
+              "scope": "static"
+            }
+          ],
+          "namespace": "calculator.divide"
+        }
+      ]
+    },
+    "path": [
+      {
+        "name": "calculator",
+        "kind": "module"
+      }
+    ],
+    "namespace": "calculator"
+  }
+]

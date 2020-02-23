@@ -1,0 +1,16 @@
+{
+  "name": "jsdoc-crashcourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "documentation": "^12.1.4",
+    "jsdoc": "^3.6.3"
+  }
+}
